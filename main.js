@@ -1,6 +1,3 @@
-var x = 2;
-
-// console.log(x)
 // Write a function that will take in an array of full names, and only return the first name of each person.
 // For example ['Bradley Bouley', 'Robert Hajek'] should return ['Bradley', 'Robert']
 
